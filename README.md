@@ -24,7 +24,7 @@ I'm Darshan Prajapati, a passionate and enthusiastic Computer Engineering Techno
 ### 📫 How to Reach Me
 - Email: [mr.darshan2919@gmail.com](mailto:mr.darshan2919@gmail.com)
 - LinkedIn: [Darshan Prajapati](https://www.linkedin.com/in/darshan-prajapati29)
-- Portfolio: [thedarshannn.github.io](#)
+- Portfolio: [darshandev.me/](http://darshandev.me/)
 
 ### 🛠️ Currently Building
 - Advanced plant management features for Smart Sprout, including growth data tracking and care reminders.
