@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-I'm Darshan Prajapati, a passionate and enthusiastic Computer Engineering Technology student at Humber College, expected to graduate in April 2025. I love exploring and creating innovative tech solutions, and my interests span software development, IoT, and full-stack web development.
+I'm Darshan Prajapati, a passionate and enthusiastic Computer Engineering Technology graduate. I love exploring and creating innovative tech solutions, and my interests span software development, IoT, and full-stack web development in java.
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Smart Sprout**, a smart gardening system for optimal plant growth.
 - 🌱 I’m currently learning **Android Development (MVVM architecture)** and **Advanced Data Structures & Algorithms** in Java.
 - 🤝 I’m looking to collaborate on **open-source Android utility packages** to simplify developer workflows.
 - 💬 Ask me about: IoT, Raspberry Pi projects, Firebase integration, and anything tech-related!
-- ⚡ Fun fact: I'm a pure vegetarian and love spicy food, especially Indian street snacks like pani puri!
+
 
 ### 🚀 Skills & Technologies
 - **Programming:** Java, Python, C, HTML/CSS, SQL, Bash
