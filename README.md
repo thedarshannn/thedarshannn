@@ -11,11 +11,6 @@
 - Android apps that solve real problems
 - Small IT automation tools or IT support workflow projects
 
-### 🆘 I’m looking for help with
-- Mastering Spring Boot best practices
-- Structuring scalable REST APIs
-- Improving system admin + IT support troubleshooting workflows
-
 ### 🌱 I’m currently learning
 - Java Spring Boot (deep dive)
 - Android development
@@ -25,7 +20,6 @@
 - IT support, troubleshooting, hardware repair
 - Java + backend design
 - Building side projects that actually solve real problems
-- How to manage learning while working crazy shifts
 
 ### ⚡ Fun fact
 I can fix your phone screen, build your backend, and optimize your schedule — all in the same day (if I have enough caffeine).
