@@ -1,5 +1,35 @@
-# 💫 About Me:
-<br>👋 Hey, I'm Darshan<br>🚀 I’m currently working on<br>* Building real-world projects (Java backend, Android apps)<br>* Creating a plant REST API project<br>🤝 I’m looking to collaborate on<br>* Java backend (Spring) side projects<br>* Android apps that solve real problems<br>* Small IT automation tools or IT support workflow projects<br>🆘 I’m looking for help with<br>* Mastering Spring Boot best practices<br>* Structuring scalable REST APIs<br>* Improving system admin + IT support troubleshooting workflows<br>🌱 I’m currently learning<br>* Java Spring Boot (deep dive)<br>* Android development<br>* CompTIA fundamentals (A+/Net+/Sec+)<br>💬 Ask me about<br>* IT support, troubleshooting, hardware repair<br>* Java + backend design<br>* Building side projects that actually solve problems<br>* How to manage learning while working crazy shifts<br>⚡ Fun fact<br>I can fix your phone screen, build your backend, and optimize your schedule — all in the same day (if I had enough caffeine).
+## 💫 About Me
+
+👋 **Hey, I'm Darshan!**
+
+### 🚀 I’m currently working on
+- Building real-world projects (Java backend, Android apps)
+- Creating a plant REST API project
+
+### 🤝 I’m looking to collaborate on
+- Java backend (Spring) side projects
+- Android apps that solve real problems
+- Small IT automation tools or IT support workflow projects
+
+### 🆘 I’m looking for help with
+- Mastering Spring Boot best practices
+- Structuring scalable REST APIs
+- Improving system admin + IT support troubleshooting workflows
+
+### 🌱 I’m currently learning
+- Java Spring Boot (deep dive)
+- Android development
+- CompTIA fundamentals (A+ / Net+ / Sec+)
+
+### 💬 Ask me about
+- IT support, troubleshooting, hardware repair
+- Java + backend design
+- Building side projects that actually solve real problems
+- How to manage learning while working crazy shifts
+
+### ⚡ Fun fact
+I can fix your phone screen, build your backend, and optimize your schedule — all in the same day (if I have enough caffeine).
+
 
 
 ## 🌐 Socials:
