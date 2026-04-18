@@ -1,10 +1,10 @@
 ## ⚡ about me  
+hey, i’m **Darshan** 👋  
+
+computer engineering grad focused on **backend development (java + spring)** and **real-world systems**  
 <p align="center">
   <img src="./code-bg.jpeg" alt="code banner" width="100%" style="border-radius: 10px;" />
 </p>
-hey, i’m darshan 👋  
-
-computer engineering grad focused on **backend development (java + spring)** and **real-world systems**  
 
 ### currently
 - building production-style projects (not tutorial clones)  
@@ -12,13 +12,13 @@ computer engineering grad focused on **backend development (java + spring)** and
 - strengthening core backend + system design fundamentals  
 
 ###  interested in
-- backend engineering roles (java/spring)  
-- android apps with practical use cases  
+- software engineering roles (java/spring) 
 - scalable systems & clean architecture  
 
 ###  learning
 - spring boot (deep dive)  
-- system design fundamentals  
+- system design fundamentals
+- reading <a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/">Designing Data-Intensive Applications</a> 
 
 ###  ask me about
 - backend design & APIs  
@@ -26,7 +26,7 @@ computer engineering grad focused on **backend development (java + spring)** and
 - turning ideas into working systems  
 
 ###  fun fact
-i enjoy taking an idea from zero to a working backend that actually holds up under real use  
+i enjoy taking an idea from zero to a working software that actually holds up under real use  
 
 
 ## 🌐 Socials:
