@@ -1,5 +1,7 @@
 ## ⚡ about me  
-
+<p align="center">
+  <img src="./code-bg.jpeg" alt="code banner" width="100%" style="border-radius: 10px;" />
+</p>
 hey, i’m darshan 👋  
 
 computer engineering grad focused on **backend development (java + spring)** and **real-world systems**  
