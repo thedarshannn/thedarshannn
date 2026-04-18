@@ -1,29 +1,31 @@
-## 💫 About Me
+## 💫 about me  
 
-👋 **Hey, I'm Darshan!**
+hey, i’m darshan 👋  
 
-### 🚀 I’m currently working on
-- Building real-world projects (Java backend, Android apps)
-- Creating a plant REST API project
+computer engineering grad focused on **backend development (java + spring)** and **real-world systems**  
 
-### 🤝 I’m looking to collaborate on
-- Java backend (Spring) side projects
-- Android apps that solve real problems
-- Small IT automation tools or IT support workflow projects
+### 🚧 currently
+- building production-style projects (not tutorial clones)  
+- developing a plant REST API 🌱  
+- strengthening core backend + system design fundamentals  
 
-### 🌱 I’m currently learning
-- Java Spring Boot (deep dive)
-- Android development
-- CompTIA fundamentals (A+ / Net+ / Sec+)
+### 🤝 interested in
+- backend engineering roles (java/spring)  
+- android apps with practical use cases  
+- scalable systems & clean architecture  
 
-### 💬 Ask me about
-- IT support, troubleshooting, hardware repair
-- Java + backend design
-- Building side projects that actually solve real problems
+### 🌱 learning
+- spring boot (deep dive)  
+- system design fundamentals  
+- android development  
 
-### ⚡ Fun fact
-I can fix your phone screen, build your backend, and optimize your schedule — all in the same day (if I have enough caffeine).
+### 💬 ask me about
+- backend design & APIs  
+- building real-world projects  
+- turning ideas into working systems  
 
+### ⚡ fun fact
+i enjoy taking an idea from zero to a working backend that actually holds up under real use  
 
 
 ## 🌐 Socials:
