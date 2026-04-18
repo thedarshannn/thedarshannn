@@ -1,30 +1,29 @@
-## 💫 about me  
+## ⚡ about me  
 
 hey, i’m darshan 👋  
 
 computer engineering grad focused on **backend development (java + spring)** and **real-world systems**  
 
-### 🚧 currently
+### currently
 - building production-style projects (not tutorial clones)  
 - developing a plant REST API 🌱  
 - strengthening core backend + system design fundamentals  
 
-### 🤝 interested in
+###  interested in
 - backend engineering roles (java/spring)  
 - android apps with practical use cases  
 - scalable systems & clean architecture  
 
-### 🌱 learning
+###  learning
 - spring boot (deep dive)  
 - system design fundamentals  
-- android development  
 
-### 💬 ask me about
+###  ask me about
 - backend design & APIs  
 - building real-world projects  
 - turning ideas into working systems  
 
-### ⚡ fun fact
+###  fun fact
 i enjoy taking an idea from zero to a working backend that actually holds up under real use  
 
 
